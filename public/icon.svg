@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#0F172A"/>
+  <rect x="44" y="44" width="424" height="424" rx="84" fill="#1E293B" stroke="#D97706" stroke-width="14"/>
+  <!-- Crown / Maharaja emblem -->
+  <path d="M132 318L114 190L196 242L256 146L316 242L398 190L380 318H132Z" fill="#F59E0B" stroke="#FDE68A" stroke-width="10" stroke-linejoin="round"/>
+  <rect x="132" y="340" width="248" height="32" rx="12" fill="#D97706"/>
+  <circle cx="256" cy="136" r="16" fill="#FDE68A"/>
+  <circle cx="114" cy="182" r="13" fill="#FDE68A"/>
+  <circle cx="398" cy="182" r="13" fill="#FDE68A"/>
+</svg>

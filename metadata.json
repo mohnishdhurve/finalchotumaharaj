@@ -1,0 +1,6 @@
+{
+  "name": "Chat Maharaja",
+  "description": "Real-time Counter POS, Kitchen Display System (KDS), and Thermal Billing for Chat Maharaja & Chhotu Maharaj Cinema.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
